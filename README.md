@@ -10,7 +10,10 @@
 There I store solutions of exercises to this course.
 
 ### Table of Contents
-1. [Work in Progress!](#) <br>
+1. [HTML Fundamentals](./01-HTML-Fundamentals) <br>
+   - [Lectures](./01-HTML-Fundamentals/Lectures) <br>
+   - [Challenges](./01-HTML-Fundamentals/Challenges) <br> 
+2. [Work in Progress!](#) <br>
 
 **The rights to the materials belong to the owner**.<br>
 **The code is not used commercially.**
