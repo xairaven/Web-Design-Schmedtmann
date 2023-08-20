@@ -11,9 +11,11 @@ There I store solutions of exercises to this course.
 
 ### Table of Contents
 1. [HTML Fundamentals](./01-HTML-Fundamentals) <br>
-   - [Lectures](./01-HTML-Fundamentals/Lectures) <br>
    - [Challenges](./01-HTML-Fundamentals/Challenges) <br> 
-2. [Work in Progress!](#) <br>
+2. [CSS Fundamentals](./02-CSS-Fundamentals) <br>
+   - [Lectures](./02-CSS-Fundamentals/Lectures) <br>
+   - [Challenges](./02-CSS-Fundamentals/Challenges) <br>
+3. [Work in Progress!](#) <br>
 
 **The rights to the materials belong to the owner**.<br>
 **The code is not used commercially.**
