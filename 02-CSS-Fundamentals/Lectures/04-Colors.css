@@ -1,0 +1,27 @@
+/* External CSS file */
+
+h1, h2, h3, h4, p, li {
+    font-family: sans-serif;
+    color: #444;
+}
+
+h1, h2, h3 {
+    color: #1898ad;
+}
+
+h1 {
+    /* color: blue; */
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.main-header {
+    background-color: #f7f7f7;
+}
+
+aside {
+    background-color: #f7f7f7;
+    border-top: 5px solid #1898ad;
+    border-bottom: 5px solid #1898ad;
+}
