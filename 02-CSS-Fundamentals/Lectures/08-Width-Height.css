@@ -1,0 +1,15 @@
+/* External CSS file */
+
+aside {
+    background-color: #f7f7f7;
+    border-top: 5px solid #1898ad;
+    border-bottom: 5px solid #1898ad;
+    padding: 50px 0;
+
+    width: 500px;
+}
+
+.post-image {
+    width: 100%;
+    height: auto;
+}
