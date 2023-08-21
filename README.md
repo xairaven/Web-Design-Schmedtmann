@@ -15,7 +15,10 @@ There I store solutions of exercises to this course.
 2. [CSS Fundamentals](./02-CSS-Fundamentals) <br>
    - [Lectures](./02-CSS-Fundamentals/Lectures) <br>
    - [Challenges](./02-CSS-Fundamentals/Challenges) <br>
-3. [Work in Progress!](#) <br>
+3. [Layouts: Floats, Flexbox, and CSS Grid Fundamentals](./03-CSS-Layouts) <br>
+   - [Lectures](./03-CSS-Layouts/Lectures) <br>
+   - [Challenges](./03-CSS-Layouts/Challenges) <br>
+4. [Work in Progress!](#) <br>
 
 **The rights to the materials belong to the owner**.<br>
 **The code is not used commercially.**
