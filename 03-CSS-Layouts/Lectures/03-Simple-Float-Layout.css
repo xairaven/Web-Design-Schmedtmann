@@ -1,0 +1,13 @@
+article{
+    width: 825px;
+    float: left;
+}
+
+aside{
+    width: 300px;
+    float: right;
+}
+
+footer{
+    clear: both;
+}
