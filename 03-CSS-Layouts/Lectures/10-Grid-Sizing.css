@@ -1,0 +1,20 @@
+.container--1 {
+    /* STARTER */
+    font-family: sans-serif;
+    background-color: #ddd;
+    font-size: 32px;
+    margin: 40px;
+
+    /* CSS GRID */
+    display: grid;
+    /*grid-template-columns: 200px 200px 1fr 1fr;*/
+    /*grid-template-columns: 2fr 1fr 1fr auto;*/
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr 1fr;
+
+    /* Explicit rows -- defined by code */
+    /* Implicit rows -- not defined by code */
+
+    column-gap: 10px;
+    row-gap: 40px;
+}

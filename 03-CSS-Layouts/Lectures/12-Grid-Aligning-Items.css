@@ -1,0 +1,31 @@
+.container--2 {
+    /* STARTER */
+    font-family: sans-serif;
+    background-color: black;
+    font-size: 40px;
+    margin: 40px;
+
+    width: 700px;
+    height: 600px;
+
+    /* CSS GRID */
+    display: grid;
+    grid-template-columns: 125px 200px 125px;
+    grid-template-rows: 250px 100px;
+
+    /* Aligning tracks inside container */
+    /* Distribute empty space */
+    justify-content: center;
+    /*justify-content: space-between;*/
+
+    align-content: center;
+
+    /* Aligning items INSIDE cells */
+    /* Moving items around inside cells*/
+    align-items: center;
+}
+
+.el--3 {
+    align-self: end;
+    justify-self: end;
+}
