@@ -1,0 +1,25 @@
+.container {
+    /* STARTER */
+    font-family: sans-serif;
+    background-color: #ddd;
+    font-size: 40px;
+    margin: 40px;
+
+    /* FLEXBOX */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* Margins between elements*/
+    gap: 30px;
+}
+
+/* Center item vertically*/
+.el--1 {
+    align-self: flex-end;
+}
+
+/* Ordering items. Default value for all items = 0 */
+.el--5 {
+    order: -1;
+}
