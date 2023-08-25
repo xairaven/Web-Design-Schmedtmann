@@ -47,6 +47,47 @@
             margin: 40px;
 
             /* FLEXBOX */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            /* Margins between elements*/
+            /*gap: 30px;*/
+        }
+
+        .el {
+            /*
+            Defaults
+            flex-grow: 0;
+            flex-shrink: 1;
+            flex-basis: auto;
+             */
+
+            /* Optimal width */
+            flex-basis: 100px;
+
+            /* Switch off shrink */
+            flex-shrink: 0;
+
+            /* All space of container dividing by elements */
+            /* Using by 1 element -- that element will take all available space */
+            flex-grow: 1;
+
+            /* flex-grow: 1, other defaults*/
+            flex: 1;
+
+            /* grow shrink basis */
+            flex: 0 0 200px;
+        }
+
+        /* Center item vertically*/
+        .el--1 {
+            align-self: flex-end;
+        }
+
+        /* Ordering items. Default value for all items = 0 */
+        .el--5 {
+            order: -1;
         }
     </style>
 </head>
