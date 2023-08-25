@@ -10,15 +10,17 @@
 There I store solutions of exercises to this course.
 
 ### Table of Contents
-1. [HTML Fundamentals](./01-HTML-Fundamentals) <br>
-   - [Challenges](./01-HTML-Fundamentals/Challenges) <br> 
-2. [CSS Fundamentals](./02-CSS-Fundamentals) <br>
-   - [Lectures](./02-CSS-Fundamentals/Lectures) <br>
-   - [Challenges](./02-CSS-Fundamentals/Challenges) <br>
-3. [Layouts: Floats, Flexbox, and CSS Grid Fundamentals](./03-CSS-Layouts) <br>
-   - [Lectures](./03-CSS-Layouts/Lectures) <br>
-   - [Challenges](./03-CSS-Layouts/Challenges) <br>
-4. [Work in Progress!](#) <br>
+1. [HTML Fundamentals](./01-HTML-Fundamentals)
+   - [Challenges](./01-HTML-Fundamentals/Challenges)
+2. [CSS Fundamentals](./02-CSS-Fundamentals)
+   - [Lectures](./02-CSS-Fundamentals/Lectures)
+   - [Challenges](./02-CSS-Fundamentals/Challenges)
+3. [Layouts: Floats, Flexbox, and CSS Grid Fundamentals](./03-CSS-Layouts)
+   - [Lectures](./03-CSS-Layouts/Lectures)
+   - [Challenges](./03-CSS-Layouts/Challenges)
+4. [Web Design Rules and Framework](./04-Design)
+   - [Lectures](./04-Design/Lectures)
+5. [Work in Progress!](#)
 
 **The rights to the materials belong to the owner**.<br>
 **The code is not used commercially.**
