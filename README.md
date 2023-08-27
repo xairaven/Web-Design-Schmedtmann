@@ -21,7 +21,10 @@ There I store solutions of exercises to this course.
 4. [Web Design Rules and Framework](./04-Design)
 5. [Components and Layout Patterns](./05-Components)
    - [Lectures](./05-Components/Lectures)
-6. [Work in Progress!](#)
+   - [Challenges](./05-Components/Challenges)
+6. [Omnifood Project — Setup and Desktop Version](./06-Omnifood-Desktop)
+   - [Lectures](./06-Omnifood-Desktop/Lectures)
+7. [Work in Progress!](#)
 
 **The rights to the materials belong to the owner**.<br>
 **The code is not used commercially.**
