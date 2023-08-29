@@ -4,8 +4,9 @@
 [![HTML](https://img.shields.io/badge/HTML-DD4A25?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-254ADD?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-- **Author: Jonas Schmedtmann** <br>
-- **Course: [**Link**](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)** <br>
+- **Author: Jonas Schmedtmann**
+- **Course: [**Link**](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)**
+- **Status: *Work in Progress***
 
 There I store solutions of exercises to this course.
 
@@ -24,7 +25,11 @@ There I store solutions of exercises to this course.
    - [Challenges](./05-Components/Challenges)
 6. [Omnifood Project — Setup and Desktop Version](./06-Omnifood-Desktop)
    - [Lectures](./06-Omnifood-Desktop/Lectures)
-7. [Work in Progress!](#)
+   - [Project](./06-Omnifood-Desktop/Project)
+7. [Omnifood Project — Responsive Web Design](./07-Omnifood-Responsive)
+   - [Lectures](./07-Omnifood-Responsive/Lectures)
+   - [Project](./07-Omnifood-Responsive/Project)
+8. [Work in Progress!](#)
 
 **The rights to the materials belong to the owner**.<br>
 **The code is not used commercially.**
