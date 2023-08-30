@@ -6,7 +6,8 @@
 
 - **Author: Jonas Schmedtmann**
 - **Course: [**Link**](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)**
-- **Status: *Work in Progress***
+- **Status: *Done!***
+- **Certificate: [**Link**](https://www.udemy.com/certificate/UC-a3716901-9789-44cf-a38b-83acf805d723/)**
 
 There I store solutions of exercises to this course.
 
@@ -30,7 +31,6 @@ There I store solutions of exercises to this course.
    - [Lectures](./07-Omnifood-Responsive/Lectures)
    - [Project](./07-Omnifood-Responsive/Project)
 8. [Omnifood Project — Effects, Optimizations and Deployment](./08-Omnifood-Final)
-   - [Lectures](./08-Omnifood-Final/Lectures)
    - [Project](./08-Omnifood-Final/Project)
 
 **The rights to the materials belong to the owner**.<br>
