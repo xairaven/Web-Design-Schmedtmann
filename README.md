@@ -9,7 +9,7 @@
 - **Status: *Done!***
 - **Certificate: [**Link**](https://www.udemy.com/certificate/UC-a3716901-9789-44cf-a38b-83acf805d723/)**
 
-There I store solutions of exercises to this course.
+There I store solutions to exercises from this course.
 
 ### Table of Contents
 1. [HTML Fundamentals](./01-HTML-Fundamentals)
