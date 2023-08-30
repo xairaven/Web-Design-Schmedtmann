@@ -29,7 +29,9 @@ There I store solutions of exercises to this course.
 7. [Omnifood Project — Responsive Web Design](./07-Omnifood-Responsive)
    - [Lectures](./07-Omnifood-Responsive/Lectures)
    - [Project](./07-Omnifood-Responsive/Project)
-8. [Work in Progress!](#)
+8. [Omnifood Project — Effects, Optimizations and Deployment](./08-Omnifood-Final)
+   - [Lectures](./08-Omnifood-Final/Lectures)
+   - [Project](./08-Omnifood-Final/Project)
 
 **The rights to the materials belong to the owner**.<br>
 **The code is not used commercially.**
